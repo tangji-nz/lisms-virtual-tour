@@ -1,0 +1,446 @@
+#: locale=es
+
+## Action
+
+### PDF
+PopupPDFBehaviour_BE08AE8D_9E67_7ADA_41C3_AF8DA6831F69.url = files/Health,%20Safety%20and%20Wellbeing%20Policy_en.pdf
+PopupPDFBehaviour_85E73854_9E1B_264A_41D5_CB25666BEBD9.url = files/Health,%20Safety%20and%20Wellbeing%20Policy_en.pdf
+
+### URL
+LinkBehaviour_29BA73E7_31A4_EFB7_41B0_A62EF2D4FDB7.source = http://www.facebook.com/loremipsum
+LinkBehaviour_29BA23E7_31A4_EFB7_416C_0F16D1563154.source = http://www.loremipsum.com
+LinkBehaviour_29BDA3E7_31A4_EFB7_41C0_AFF96E074E4D.source = http://www.loremipsum.com
+LinkBehaviour_29BA63E7_31A4_EFB7_41AE_A963B8DFDBE3.source = http://www.twitter.com/loremipsum
+LinkBehaviour_E6F0BFC4_C317_0CAF_41DD_A24392E0A71F.source = https://lisms.auckland.ac.nz/
+LinkBehaviour_FDF5B583_ECFC_23C7_41B1_611C62571E53.source = https://lisms.auckland.ac.nz/research-2026/
+LinkBehaviour_2D897EBE_3B52_CB67_41C8_47D555C014CF.source = https://www.auckland.ac.nz/en/news/2026/02/24/university-programme-expands-help-manufacturers-go-digital.html
+LinkBehaviour_82756357_991D_9764_41D7_6F591BD72205.source = https://www.auckland.ac.nz/en/news/2026/02/24/university-programme-expands-help-manufacturers-go-digital.html
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_859F092B_A8C9_C1F1_41DE_74455B36B466.text = AI/Analytics Area
+HotspotPanoramaOverlayTextImage_2DEDC2D4_3AF2_FB3A_41BF_6596CB626926.text = Control Cabinet
+HotspotPanoramaOverlayTextImage_9CF0781B_A8D9_C02F_41E0_3BF0945F4DA9.text = Corridor
+HotspotPanoramaOverlayTextImage_82095BF3_A8D9_4032_41E2_DD7A80C57220.text = DM Light Area
+HotspotPanoramaOverlayTextImage_828DD993_A8CB_C0AC_41E4_7B22A0E572DF.text = Go To
+HotspotPanoramaOverlayTextImage_B4C4230B_A85B_413F_41B4_70AED0E2C30F.text = Go To
+HotspotPanoramaOverlayTextImage_86906031_A8C9_C02C_41CB_FA0B25B21DE7.text = Go To
+HotspotPanoramaOverlayTextImage_84E6C587_A8DB_C0D5_41E4_04E4C8C450D4.text = Go To
+HotspotPanoramaOverlayTextImage_9933783F_A8C9_C06B_41D8_ABEEFB3AD023.text = Go To
+HotspotPanoramaOverlayTextImage_2CC50AEE_3B31_C8E7_41C2_E9DA200EB804.text = Industry PC  \
+Beckhoff CX2033
+HotspotPanoramaOverlayTextImage_99E73709_A8C7_4028_41D8_98AE5A359A45.text = Mechanical & Mechatronics
+HotspotPanoramaOverlayTextImage_B762B282_A85B_4348_4196_B6EFF3252BC1.text = Smart Manufacturing Cell
+HotspotPanoramaOverlayTextImage_86854E05_A8CB_43F1_41E1_4F1A455A443E.text = Workshop
+HotspotPanoramaOverlayTextImage_8008B0B8_993D_B12C_41D9_78B05557C052.text = Workshop
+
+### Tooltip
+HotspotPanoramaOverlayArea_BF1FB512_A84A_C681_41C6_6A6C217F48C0.toolTip = ABB C30 Controller
+HotspotMapOverlayArea_89A06EEC_9DE5_FA5A_41E3_945972BF6C40.toolTip = Analytics Area
+HotspotMapOverlayArea_8CBE1FA7_9E1D_1AD6_41D6_92FD07CC8891.toolTip = Analytics Area
+HotspotPanoramaOverlayArea_B8D6C048_9932_B16C_41D7_E1731EA83318.toolTip = Back to Main Lab
+HotspotPanoramaOverlayArea_B8682BC4_990D_F764_41C5_FE666EB79648.toolTip = Back to the Manufacturing Cell Main View
+HotspotPanoramaOverlayArea_2C501B59_3B52_C92D_41AD_377A1071CEDE.toolTip = DM Light Intro
+HotspotPanoramaOverlayArea_82730355_991D_9764_4184_C9F4C28FB197.toolTip = DM Light Intro
+HotspotPanoramaOverlayArea_B9B7C9C7_9E67_2656_41B0_A208548FDB9F.toolTip = DML-Dowintime Monitoring
+HotspotPanoramaOverlayArea_B7F5AA6F_9E6B_FA56_41E2_2875F85C0A6B.toolTip = DML-Job Tracking
+HotspotPanoramaOverlayArea_B9B8BEB8_9E67_1A3A_41D9_A82EB31B2E56.toolTip = DML-Power Monitoring
+HotspotPanoramaOverlayArea_2141BDA0_3DC8_407E_41AD_DC2C2BDD68E0.toolTip = Dr Jan Polzer
+HotspotMapOverlayArea_8DC8346A_A4F7_C7FD_41A3_7D50CE187AD1.toolTip = EN Building Entry
+HotspotMapOverlayArea_B681B26A_A01A_B941_41D5_8D366ABF1DAB.toolTip = EnLevel4_401Entry
+HotspotMapOverlayArea_B7E8CF7F_A420_4AC4_41D9_9B3FBDC83DDA.toolTip = EnLevel4_405Area
+HotspotMapOverlayArea_AA717E59_A420_CACD_41C0_4EDA0994E0E4.toolTip = EnLevel4_CentralArea1
+HotspotMapOverlayArea_B650EDC2_A420_4E3F_41AA_45080B18D14C.toolTip = EnLevel4_CentralArea2
+HotspotMapOverlayArea_B6005B3B_A420_4A4C_41B0_0C8BD489775E.toolTip = EnLevel4_Elevator
+HotspotMapOverlayArea_B3CF7FAE_A026_8764_41C7_0400AD8339CB.toolTip = EnLevel8_Center
+HotspotMapOverlayArea_B4C44E1D_A02A_892F_41D7_7A081A2B55BD.toolTip = EnLevel8_Center_BigWindow
+HotspotMapOverlayArea_96F331AA_A493_417D_41DE_729950D23CA3.toolTip = EnLevel8_Elevator
+HotspotMapOverlayArea_8AE396D9_9E97_08D7_41A0_4B3649E7D5A4.toolTip = EnLevel8_aisle_DrJan
+HotspotMapOverlayArea_8E81804F_A4F1_5F33_41E0_5F566E198980.toolTip = EnLevel8_aisle_PrintingRoom
+HotspotMapOverlayArea_8A23A3EB_9E9F_08CB_41E1_BC2F27E4BA67.toolTip = EnLevel8_aisle_ProfXun
+HotspotMapOverlayArea_8DF7070E_9E71_094A_41DE_098F03239190.toolTip = EnLevel8_aisle_end
+HotspotMapOverlayArea_8A7A58EE_9E92_F8CA_41E0_27B7439DA6BC.toolTip = EnLevel8_aisle_to_Pr_PgOffice
+HotspotMapOverlayArea_8CD8FCE3_9DEA_FE4E_41A3_11516F0953B4.toolTip = Entry
+HotspotPanoramaOverlayArea_280C56C6_3873_0E4E_41A6_0F6778C4B26D.toolTip = Go to Level 4
+HotspotPanoramaOverlayArea_285E7E06_3873_01CF_4198_F4BE401ED725.toolTip = Go to Level 8
+HotspotPanoramaOverlayArea_B9AF8D03_990E_B0DC_41D6_79F829D10DED.toolTip = HRC Station
+HotspotPanoramaOverlayArea_879C3E36_9E1B_1A36_41DF_510336AD4ABB.toolTip = Health, Safety and Wellbeing Policy
+HotspotPanoramaOverlayArea_80C8017C_9E67_263A_41CA_3B3B358AF2E1.toolTip = Health, Safety and Wellbeing Policy
+overlay_AAF12A0B_BF85_4121_41B7_62294DC7F3DC.toolTip = Human-Robot Collaboration
+HotspotMapOverlayArea_80823650_A4F1_C32D_41C5_5C39A38BA5F6.toolTip = LISMS
+HotspotMapOverlayArea_84789718_A491_C15C_41DF_54D79F1E3C33.toolTip = LISMS (405-870) Entry
+FramePanoramaOverlay_A398376A_BF8D_4F1B_41E0_D6FD680E4CAC.toolTip = LISMS 3D Devices
+FramePanoramaOverlay_A25329A1_BF84_C304_41E5_EF3A483CF894.toolTip = LISMS 3D Devices
+FramePanoramaOverlay_A0419DB3_BFFB_4306_41C6_E533DCF0D582.toolTip = LISMS 3D Devices
+FramePanoramaOverlay_AE9063DE_BF84_C6D0_41E1_F55BAB14E1B2.toolTip = LISMS About Us
+FramePanoramaOverlay_AECE0B4C_BF8D_C733_41C3_1F1ADBEFF389.toolTip = LISMS About Us
+FramePanoramaOverlay_994BE530_BF84_C318_41D4_6469D8E895F3.toolTip = LISMS About Us
+FramePanoramaOverlay_AAACD3DA_BEFA_2825_41D4_4CD415549A3C.toolTip = LISMS About Us
+FramePanoramaOverlay_ABE1A556_BF8B_C32D_41E2_A8FF6F0D46A7.toolTip = LISMS Home Page
+overlay_E934CA33_C31B_17E9_41B5_82D919065431.toolTip = LISMS Home Page
+HotspotMapOverlayArea_92644D5F_9DED_1E76_41D1_CD96D4EE43DA.toolTip = LISMS Main View
+overlay_A41C6307_BF87_C715_41D5_4A9C2B576601.toolTip = LISMS Projects
+overlay_A5F91812_BF84_C10E_41DD_658C2D9573E4.toolTip = LISMS Projects
+HotspotMapOverlayArea_8C26F6DA_A4FF_C0DD_41B7_8F4D9087C93F.toolTip = Level 8 Corridor
+HotspotMapOverlayArea_8F07BE09_9E77_1B36_41D4_4A4D107C8F10.toolTip = MEpgOffice_2
+HotspotMapOverlayArea_8E956E34_A497_4355_41DB_98B1947895BA.toolTip = MEpgOffice_3
+HotspotMapOverlayArea_8BACAE91_9E71_1B57_41D2_47DDFE62B135.toolTip = MEpgOffice_4
+HotspotMapOverlayArea_8F5724A6_9E73_0F7D_41BF_752BD9CCD367.toolTip = MEpgOffice_Entry
+FramePanoramaOverlay_ACF44FBC_BF9B_5F5A_41D1_A15D83FC72D5.toolTip = Manufacturing Cell 3D Device
+HotspotPanoramaOverlayArea_A024CEDD_BF85_413C_41D6_808DFD9745B9.toolTip = Milling Machine Tool Project
+HotspotPanoramaOverlayArea_9FFDBF7D_BFFC_BF00_41CE_0DC87FC62A09.toolTip = Milling Machine Tool Project
+HotspotPanoramaOverlayArea_26085A3C_3D38_4047_41CB_AB1FF6EA8935.toolTip = Professor Xun Xu
+HotspotMapOverlayArea_891EAA9B_9DE5_3AFE_41DC_2A99176DBC29.toolTip = Smart Manufacturing Cell
+HotspotPanoramaOverlayArea_8D62B49E_A8BE_C0AA_41E1_AB2E57915467.toolTip = To the Smart Manufacturing Cell
+HotspotMapOverlayArea_8D77961F_9E1D_6DF6_41C9_7564EEA4C718.toolTip = Workshop
+
+### URL
+FramePanoramaOverlay_A398376A_BF8D_4F1B_41E0_D6FD680E4CAC.url = https://lisms-akl-nz.github.io/Smart-Factory-Cell/
+FramePanoramaOverlay_ACF44FBC_BF9B_5F5A_41D1_A15D83FC72D5.url = https://lisms-akl-nz.github.io/Smart-Factory-Cell/
+FramePanoramaOverlay_A25329A1_BF84_C304_41E5_EF3A483CF894.url = https://lisms-akl-nz.github.io/Smart-Factory-Cell/
+FramePanoramaOverlay_A0419DB3_BFFB_4306_41C6_E533DCF0D582.url = https://lisms-akl-nz.github.io/Smart-Factory-Cell/
+overlay_E934CA33_C31B_17E9_41B5_82D919065431.url = https://lisms.auckland.ac.nz/
+FramePanoramaOverlay_ABE1A556_BF8B_C32D_41E2_A8FF6F0D46A7.url = https://lisms.auckland.ac.nz/
+FramePanoramaOverlay_AE9063DE_BF84_C6D0_41E1_F55BAB14E1B2.url = https://lisms.auckland.ac.nz/about/
+FramePanoramaOverlay_AECE0B4C_BF8D_C733_41C3_1F1ADBEFF389.url = https://lisms.auckland.ac.nz/about/
+FramePanoramaOverlay_994BE530_BF84_C318_41D4_6469D8E895F3.url = https://lisms.auckland.ac.nz/about/
+FramePanoramaOverlay_AAACD3DA_BEFA_2825_41D4_4CD415549A3C.url = https://lisms.auckland.ac.nz/about/
+
+## Media
+
+### Floorplan
+
+### Image
+imlevel_F927DB53_F7D8_BF0C_41B7_A26C591CDC1B.url = media/map_846090E9_9E58_ADD5_41C1_18DB7DB2C069_en_0.png
+imlevel_F927DB53_F7D8_BF0C_41B2_DA163DDBAE1C.url = media/map_846090E9_9E58_ADD5_41C1_18DB7DB2C069_en_1.png
+imlevel_F927EB53_F7D8_BF0C_41DB_A1F7E6A241AE.url = media/map_846090E9_9E58_ADD5_41C1_18DB7DB2C069_en_2.png
+imlevel_F9241B54_F7D8_BF34_41E6_A967378A8EF5.url = media/map_846090E9_9E58_ADD5_41C1_18DB7DB2C069_en_3.png
+imlevel_F9274B27_F7D8_BF14_41C0_1C3098181364.url = media/map_924D5D7F_9E4B_D4AD_41C3_EBA79777B627_en_0.png
+imlevel_F9274B27_F7D8_BF14_41CE_FFC50BBD81EF.url = media/map_924D5D7F_9E4B_D4AD_41C3_EBA79777B627_en_1.png
+imlevel_F9275B27_F7D8_BF14_41DA_46CCC33B1E61.url = media/map_924D5D7F_9E4B_D4AD_41C3_EBA79777B627_en_2.png
+imlevel_F9251B68_F7D8_BF1C_41E0_3265A76F7A1A.url = media/map_B4D9FF92_A019_87C9_41E3_48DDA31B45B9_en_0.png
+imlevel_F9255B68_F7D8_BF1C_41EC_723F793369B1.url = media/map_B4D9FF92_A019_87C9_41E3_48DDA31B45B9_en_1.png
+imlevel_F9256B68_F7D8_BF1C_41EE_AB113A7A10F2.url = media/map_B4D9FF92_A019_87C9_41E3_48DDA31B45B9_en_2.png
+imlevel_F9258B68_F7D8_BF1C_41EA_47FF296675E4.url = media/map_B4D9FF92_A019_87C9_41E3_48DDA31B45B9_en_3.png
+imlevel_8DD0044A_9916_916C_41DE_B8F3D20968E1.url = media/panorama_2F22BDAC_31A4_FBB9_41AC_546F067F2376_HS_c3lzrhxv_en.png
+imlevel_83F8B1C1_9912_935C_41C1_32DF11041C03.url = media/panorama_89C7AA2B_9916_912C_41D9_F6887CF34F9D_HS_u4kq3xp8_en.png
+imlevel_85AF9674_A8C9_C021_41DC_1C7FCB37587B.url = media/panorama_970E6F0A_98FF_90EC_4183_A9D8DA474258_HS_2j8s6z65_en.png
+imlevel_9D61D1E9_A8D9_43EF_41E2_BDEE39C04265.url = media/panorama_970E6F0A_98FF_90EC_4183_A9D8DA474258_HS_47droek1_en.png
+imlevel_8321E7FC_A8C9_C021_41C3_DC2234D3C700.url = media/panorama_970E6F0A_98FF_90EC_4183_A9D8DA474258_HS_6sscy5ew_en.png
+imlevel_984B743C_A8FA_C002_41CC_05DC86A8CAC8.url = media/panorama_970E6F0A_98FF_90EC_4183_A9D8DA474258_HS_biyc1csl_en.png
+imlevel_8F437F51_9916_8F7C_41E1_3043BEEAF553.url = media/panorama_970E6F0A_98FF_90EC_4183_A9D8DA474258_HS_c6ri4jj3_en.png
+imlevel_832F8742_A8C9_C061_41C6_43E98B16A329.url = media/panorama_970E6F0A_98FF_90EC_4183_A9D8DA474258_HS_hy9vvd0e_en.png
+imlevel_832378C1_A8C9_C063_41D6_C068931C8756.url = media/panorama_970E6F0A_98FF_90EC_4183_A9D8DA474258_HS_p4bo2hfa_en.png
+imlevel_9ACA332D_A8FA_C002_41C2_E49D2BB18A71.url = media/panorama_970E6F0A_98FF_90EC_4183_A9D8DA474258_HS_pzxi6ah7_en.png
+imlevel_985655B1_A8FA_C002_41AE_D80913FF8BEA.url = media/panorama_970E6F0A_98FF_90EC_4183_A9D8DA474258_HS_rmpd61jo_en.png
+imlevel_9D600127_A8D9_4063_41B5_3A68F0D98F74.url = media/panorama_970E6F0A_98FF_90EC_4183_A9D8DA474258_HS_rry8simz_en.png
+imlevel_9D63E038_A8D9_406D_41CF_FF1738DA3F35.url = media/panorama_970E6F0A_98FF_90EC_4183_A9D8DA474258_HS_ts6q8pdg_en.png
+imlevel_85A62BBA_A8C9_C020_41C9_977290856443.url = media/panorama_970E6F0A_98FF_90EC_4183_A9D8DA474258_HS_txi1gk1q_en.png
+imlevel_B2E9B863_BCEB_FBBC_41CF_C2C4BA943353.url = media/popup_21A370E3_3D38_41C1_41CE_758EA3AB8D54_en_0_0.png
+imlevel_B2E8A864_BCEB_FB84_41AC_B8C95B26EDBF.url = media/popup_21A370E3_3D38_41C1_41CE_758EA3AB8D54_en_0_1.png
+imlevel_B2E8C864_BCEB_FB84_41B6_8F03F305462E.url = media/popup_21A370E3_3D38_41C1_41CE_758EA3AB8D54_en_0_2.png
+imlevel_B05BD5B5_BCE8_1484_419D_0B4F5BF23069.url = media/popup_26B366FC_3DC9_C1C6_41C2_7D191A00988A_en_0_0.png
+imlevel_B045E5B5_BCE8_1484_41E0_DD4B62133A72.url = media/popup_26B366FC_3DC9_C1C6_41C2_7D191A00988A_en_0_1.png
+imlevel_B05A35B5_BCE8_1484_41C9_258D2369046C.url = media/popup_26B366FC_3DC9_C1C6_41C2_7D191A00988A_en_0_2.png
+imlevel_B10C066B_BCE8_178C_41C8_2DBB4E505B86.url = media/popup_2C683723_3B32_791D_41C8_9EAFEEB4F565_en_0_0.png
+imlevel_B10FF66C_BCE8_1784_41E0_862B84FFD68E.url = media/popup_2C683723_3B32_791D_41C8_9EAFEEB4F565_en_0_1.png
+imlevel_B02BE19A_BCE8_6C8C_41CC_CBA47D4EBBE8.url = media/popup_898718D2_9FBB_BADB_41DF_E3E8A32C3847_en_0_0.jpg
+imlevel_B055D19A_BCE8_6C8C_41E3_F0E93BEBC84A.url = media/popup_898718D2_9FBB_BADB_41DF_E3E8A32C3847_en_0_1.jpg
+imlevel_B055F19A_BCE8_6C8C_419A_FA44A160F857.url = media/popup_898718D2_9FBB_BADB_41DF_E3E8A32C3847_en_0_2.jpg
+imlevel_B055819A_BCE8_6C8C_41AF_345DD201DF49.url = media/popup_898718D2_9FBB_BADB_41DF_E3E8A32C3847_en_0_3.jpg
+imlevel_B03A9DB4_BCE8_7484_416F_5DBB2AE3B834.url = media/popup_89A7A947_9FB7_BB39_41CA_F9B3A94FFF57_en_0_0.jpg
+imlevel_B03AADB4_BCE8_7484_41E0_AEEC3D2AA9F5.url = media/popup_89A7A947_9FB7_BB39_41CA_F9B3A94FFF57_en_0_1.jpg
+imlevel_B03B4DB4_BCE8_7484_41E6_CC6F33A70C66.url = media/popup_89A7A947_9FB7_BB39_41CA_F9B3A94FFF57_en_0_2.jpg
+imlevel_B03B6DB4_BCE8_7484_41E4_A2736EDBD105.url = media/popup_89A7A947_9FB7_BB39_41CA_F9B3A94FFF57_en_0_3.jpg
+imlevel_B02CC591_BCE8_749F_41B0_5BA3DC617184.url = media/popup_8A30A06E_9FBB_69CB_41D6_EE4D76BFE3CB_en_0_0.jpg
+imlevel_B02CD591_BCE8_749F_41D2_67877669D2E2.url = media/popup_8A30A06E_9FBB_69CB_41D6_EE4D76BFE3CB_en_0_1.jpg
+imlevel_B02C8591_BCE8_749F_4188_5EC3B204DFCC.url = media/popup_8A30A06E_9FBB_69CB_41D6_EE4D76BFE3CB_en_0_2.jpg
+imlevel_B02C9591_BCE8_749F_41BD_C6AF018FC99A.url = media/popup_8A30A06E_9FBB_69CB_41D6_EE4D76BFE3CB_en_0_3.jpg
+imlevel_B00A19E2_BCE8_1CBC_41E2_B7231536C20A.url = media/popup_8A3880F1_9FAB_EAD9_41DF_1F5FD8D1D522_en_0_0.jpg
+imlevel_B03469E2_BCE8_1CBC_41BA_40F4DA61371F.url = media/popup_8A3880F1_9FAB_EAD9_41DF_1F5FD8D1D522_en_0_1.jpg
+imlevel_B03439E2_BCE8_1CBC_41D6_C8F5A07BDA7A.url = media/popup_8A3880F1_9FAB_EAD9_41DF_1F5FD8D1D522_en_0_2.jpg
+imlevel_B03429E2_BCE8_1CBC_41E3_C34647BD025D.url = media/popup_8A3880F1_9FAB_EAD9_41DF_1F5FD8D1D522_en_0_3.jpg
+imlevel_B03055E8_BCE8_148C_41E6_364DC300DD04.url = media/popup_8A7B2E53_9FAA_B9D8_41E1_58C48B7C7AB1_en_0_0.jpg
+imlevel_B03075E9_BCE8_148C_41C4_4A836E59FB0F.url = media/popup_8A7B2E53_9FAA_B9D8_41E1_58C48B7C7AB1_en_0_1.jpg
+imlevel_B03015E9_BCE8_148C_41E3_7E21E723DE6B.url = media/popup_8A7B2E53_9FAA_B9D8_41E1_58C48B7C7AB1_en_0_2.jpg
+imlevel_B03005E9_BCE8_148C_41CA_BA3A1969BE51.url = media/popup_8A7B2E53_9FAA_B9D8_41E1_58C48B7C7AB1_en_0_3.jpg
+imlevel_B0809094_BCEB_EC84_41A4_46A421A4297D.url = media/popup_8A93CA85_9FB7_B939_41AE_BB2BD3109E87_en_0_0.jpg
+imlevel_B0827094_BCEB_EC84_41D7_BD0DD838AFB5.url = media/popup_8A93CA85_9FB7_B939_41AE_BB2BD3109E87_en_0_1.jpg
+imlevel_B0826095_BCEB_EC84_41E4_5885BB80EA62.url = media/popup_8A93CA85_9FB7_B939_41AE_BB2BD3109E87_en_0_2.jpg
+imlevel_B0829095_BCEB_EC84_41D1_7C4B26B3D93B.url = media/popup_8A93CA85_9FB7_B939_41AE_BB2BD3109E87_en_0_3.jpg
+imlevel_B021F9A1_BCE8_7CBC_41E1_006558CA07E2.url = media/popup_8A93CD8E_9FB6_BB4B_41DA_8DC0F1BB9D07_en_0_0.jpg
+imlevel_B023F9A1_BCE8_7CBC_41C9_768BE1FB73FA.url = media/popup_8A93CD8E_9FB6_BB4B_41DA_8DC0F1BB9D07_en_0_1.jpg
+imlevel_B02399A1_BCE8_7CBC_41E3_D8A6BD4A301D.url = media/popup_8A93CD8E_9FB6_BB4B_41DA_8DC0F1BB9D07_en_0_2.jpg
+imlevel_B023A9A2_BCE8_7CBC_41E4_5770B8E89A44.url = media/popup_8A93CD8E_9FB6_BB4B_41DA_8DC0F1BB9D07_en_0_3.jpg
+imlevel_B07824AB_BCE8_148C_41E5_3C518B74304A.url = media/popup_8AA6398B_9FB6_BB49_41E2_1A38F1D89826_en_0_0.jpg
+imlevel_B07844AB_BCE8_148C_41DD_42C65DADB738.url = media/popup_8AA6398B_9FB6_BB49_41E2_1A38F1D89826_en_0_1.jpg
+imlevel_B07864AB_BCE8_148C_41DD_AF69D2CD46C1.url = media/popup_8AA6398B_9FB6_BB49_41E2_1A38F1D89826_en_0_2.jpg
+imlevel_B07884AB_BCE8_148C_41D3_B93BBA316EE4.url = media/popup_8AA6398B_9FB6_BB49_41E2_1A38F1D89826_en_0_3.jpg
+imlevel_B005D63F_BCE8_3784_41CC_FA7EDF45C077.url = media/popup_8ADBC1C7_9FAE_AB38_41D9_5395E335CDF7_en_0_0.jpg
+imlevel_B005B63F_BCE8_3784_41E2_352833543838.url = media/popup_8ADBC1C7_9FAE_AB38_41D9_5395E335CDF7_en_0_1.jpg
+imlevel_B0059640_BCE8_37FC_41DD_6D443BB7177A.url = media/popup_8ADBC1C7_9FAE_AB38_41D9_5395E335CDF7_en_0_2.jpg
+imlevel_B01A6640_BCE8_37FC_41DF_EA990EEE77BF.url = media/popup_8ADBC1C7_9FAE_AB38_41D9_5395E335CDF7_en_0_3.jpg
+imlevel_B03EB1D4_BCE8_6C84_41B2_66E090DAA134.url = media/popup_8AF0CCCA_9FB5_BACB_41E1_FFA6FA4B9139_en_0_0.jpg
+imlevel_B039B1D4_BCE8_6C84_41E6_AA47FCB9767D.url = media/popup_8AF0CCCA_9FB5_BACB_41E1_FFA6FA4B9139_en_0_1.jpg
+imlevel_B03E51D4_BCE8_6C84_41B3_B4FFB280E52E.url = media/popup_8AF0CCCA_9FB5_BACB_41E1_FFA6FA4B9139_en_0_2.jpg
+imlevel_B03E71D4_BCE8_6C84_41D1_D56198269CFB.url = media/popup_8AF0CCCA_9FB5_BACB_41E1_FFA6FA4B9139_en_0_3.jpg
+imlevel_B2EE587E_BCEB_FB84_41CE_8E2257E05EBE.url = media/popup_8B06BC05_9FAA_D939_41DB_D60B3C992F7E_en_0_0.jpg
+imlevel_B2EE687E_BCEB_FB84_41E7_3FF6A1CD4D1A.url = media/popup_8B06BC05_9FAA_D939_41DB_D60B3C992F7E_en_0_1.jpg
+imlevel_B2EE787E_BCEB_FB84_41E0_FC488384CDB2.url = media/popup_8B06BC05_9FAA_D939_41DB_D60B3C992F7E_en_0_2.jpg
+imlevel_B2EE887E_BCEB_FB84_41CB_9F03DB1A10CE.url = media/popup_8B06BC05_9FAA_D939_41DB_D60B3C992F7E_en_0_3.jpg
+imlevel_B05D19A7_BCE8_1C84_41BB_A14EA4586CF3.url = media/popup_8B4B4A0D_9FB5_5948_41DD_225A89D70A8D_en_0_0.jpg
+imlevel_B05D09A7_BCE8_1C84_41D3_80654EB7F2E7.url = media/popup_8B4B4A0D_9FB5_5948_41DD_225A89D70A8D_en_0_1.jpg
+imlevel_B05D69A7_BCE8_1C84_41C1_0BA826A41FE3.url = media/popup_8B4B4A0D_9FB5_5948_41DD_225A89D70A8D_en_0_2.jpg
+imlevel_B05D59A7_BCE8_1C84_41CC_A9874AAC6FEC.url = media/popup_8B4B4A0D_9FB5_5948_41DD_225A89D70A8D_en_0_3.jpg
+imlevel_B00E6E48_BCE8_178C_41E0_E0A42AE329A2.url = media/popup_8BABB93A_9FAA_DB48_41CF_0D9AF149B121_en_0_0.jpg
+imlevel_B00E1E49_BCE8_178C_41CF_69486BB02366.url = media/popup_8BABB93A_9FAA_DB48_41CF_0D9AF149B121_en_0_1.jpg
+imlevel_B00E2E49_BCE8_178C_41DF_C17C6575A835.url = media/popup_8BABB93A_9FAA_DB48_41CF_0D9AF149B121_en_0_2.jpg
+imlevel_B00EDE49_BCE8_178C_41E7_13E7D6460D33.url = media/popup_8BABB93A_9FAA_DB48_41CF_0D9AF149B121_en_0_3.jpg
+imlevel_B000A258_BCE8_2F8D_41E4_E6F80AF1065A.url = media/popup_8BB7077B_9FAD_D7C9_41E3_DB91DCD82189_en_0_0.jpg
+imlevel_B002D258_BCE8_2F8D_41C2_2643501F539A.url = media/popup_8BB7077B_9FAD_D7C9_41E3_DB91DCD82189_en_0_1.jpg
+imlevel_B002B258_BCE8_2F8D_41D9_35B06660AF29.url = media/popup_8BB7077B_9FAD_D7C9_41E3_DB91DCD82189_en_0_2.jpg
+imlevel_B0028259_BCE8_2F8F_41DD_38F330D9633F.url = media/popup_8BB7077B_9FAD_D7C9_41E3_DB91DCD82189_en_0_3.jpg
+imlevel_B2E61C99_BCEB_F48C_41BE_4ACCD8C463FC.url = media/popup_8C002395_9FB5_6F58_41C7_00517426EF8D_en_0_0.jpg
+imlevel_B2E00C99_BCEB_F48C_41B6_0165E4AEDA81.url = media/popup_8C002395_9FB5_6F58_41C7_00517426EF8D_en_0_1.jpg
+imlevel_B2E01C99_BCEB_F48C_41D8_63A7468C1A04.url = media/popup_8C002395_9FB5_6F58_41C7_00517426EF8D_en_0_2.jpg
+imlevel_B2E02C9A_BCEB_F48C_41E1_46700E038A47.url = media/popup_8C002395_9FB5_6F58_41C7_00517426EF8D_en_0_3.jpg
+imlevel_B053CD8F_BCE8_1484_41AB_67ED1B1FF846.url = media/popup_8C7C43C1_9FBF_EF39_41E1_9E38AD0D560C_en_0_0.jpg
+imlevel_B0502D8F_BCE8_1484_41E2_521D6A55957E.url = media/popup_8C7C43C1_9FBF_EF39_41E1_9E38AD0D560C_en_0_1.jpg
+imlevel_B0500D8F_BCE8_1484_41E5_0CA0A7A6D479.url = media/popup_8C7C43C1_9FBF_EF39_41E1_9E38AD0D560C_en_0_2.jpg
+imlevel_B0507D8F_BCE8_1484_41D7_ECE68337216D.url = media/popup_8C7C43C1_9FBF_EF39_41E1_9E38AD0D560C_en_0_3.jpg
+imlevel_B079E87B_BCE8_1B83_41C5_3BA5394A9FE2.url = media/popup_B94755EC_A84F_41E7_41E0_4B4B4C2708FA_en_0_0.jpg
+imlevel_B07E087C_BCE8_1B85_41D3_B080BB422945.url = media/popup_B94755EC_A84F_41E7_41E0_4B4B4C2708FA_en_0_1.jpg
+imlevel_B07E387C_BCE8_1B85_41C3_5D563647973B.url = media/popup_B94755EC_A84F_41E7_41E0_4B4B4C2708FA_en_0_2.jpg
+imlevel_B07E287C_BCE8_1B85_41D6_5E4B98F175F7.url = media/popup_B94755EC_A84F_41E7_41E0_4B4B4C2708FA_en_0_3.jpg
+imlevel_B073DCF1_BCE8_149F_41E0_5267BB04E0CB.url = media/popup_BA1FA40A_A84E_C620_41CA_DC8A2E80E9BA_en_0_0.jpg
+imlevel_B073FCF1_BCE8_149F_41A4_E1538666170D.url = media/popup_BA1FA40A_A84E_C620_41CA_DC8A2E80E9BA_en_0_1.jpg
+imlevel_B073ECF1_BCE8_149F_41E6_EBEFB5DBDF87.url = media/popup_BA1FA40A_A84E_C620_41CA_DC8A2E80E9BA_en_0_2.jpg
+imlevel_B0701CF2_BCE8_149D_41BF_22732A53C9D1.url = media/popup_BA1FA40A_A84E_C620_41CA_DC8A2E80E9BA_en_0_3.jpg
+imlevel_B075D4E9_BCE8_348C_41E6_EE3B84F7B8F8.url = media/popup_BA3E3EAD_A84A_C261_41D9_D48AD28D7498_en_0_0.jpg
+imlevel_B04A34EA_BCE8_348C_41DF_AA8325B14B11.url = media/popup_BA3E3EAD_A84A_C261_41D9_D48AD28D7498_en_0_1.jpg
+imlevel_B04A04EA_BCE8_348C_41E4_41AE64E14C26.url = media/popup_BA3E3EAD_A84A_C261_41D9_D48AD28D7498_en_0_2.jpg
+imlevel_B04A14EA_BCE8_348C_41D9_8171F6EDA146.url = media/popup_BA3E3EAD_A84A_C261_41D9_D48AD28D7498_en_0_3.jpg
+imlevel_B07660E0_BCE8_2CBC_41D9_412F2BC98C5A.url = media/popup_BADA7787_A849_C221_41D7_DCD70F065B09_en_0_0.jpg
+imlevel_B07170E1_BCE8_2CBC_41E5_D7A7F9A96486.url = media/popup_BADA7787_A849_C221_41D7_DCD70F065B09_en_0_1.jpg
+imlevel_B07140E1_BCE8_2CBC_41D1_77C90438163E.url = media/popup_BADA7787_A849_C221_41D7_DCD70F065B09_en_0_2.jpg
+imlevel_B07150E1_BCE8_2CBC_41DA_15F1ADA1681A.url = media/popup_BADA7787_A849_C221_41D7_DCD70F065B09_en_0_3.jpg
+imlevel_B0432D6A_BCE8_358C_41CF_F6CBF0FADA23.url = media/popup_BB7FDB24_A846_C260_418C_6BF522C0D4B1_en_0_0.jpg
+imlevel_B0430D6A_BCE8_358C_41E2_63FE0790A3FB.url = media/popup_BB7FDB24_A846_C260_418C_6BF522C0D4B1_en_0_1.jpg
+imlevel_B0431D6A_BCE8_358C_41B8_F58905966DB9.url = media/popup_BB7FDB24_A846_C260_418C_6BF522C0D4B1_en_0_2.jpg
+imlevel_B0436D6B_BCE8_358C_41DA_ADB0047D0EF7.url = media/popup_BB7FDB24_A846_C260_418C_6BF522C0D4B1_en_0_3.jpg
+imlevel_B042CD58_BCE8_358D_41E3_873523F09FBB.url = media/popup_BCEC1833_A849_4E61_4193_0B0DBBE2A2C7_en_0_0.jpg
+imlevel_B04CFD59_BCE8_358F_41AF_DF06A08C2E62.url = media/popup_BCEC1833_A849_4E61_4193_0B0DBBE2A2C7_en_0_1.jpg
+imlevel_B04CCD59_BCE8_358F_41D1_0FC509D29526.url = media/popup_BCEC1833_A849_4E61_4193_0B0DBBE2A2C7_en_0_2.jpg
+imlevel_B04CDD59_BCE8_358F_41E7_35B6865B714B.url = media/popup_BCEC1833_A849_4E61_4193_0B0DBBE2A2C7_en_0_3.jpg
+
+### Popup Image
+
+### Subtitle
+panorama_2F22CB63_31A4_98AF_41C0_12EBE13888FC.subtitle = A connecting passage providing access between different sections of the Engineering Building.
+panorama_2F2159D2_31A7_9BE9_4189_FA9E9325471C.subtitle = A dedicated space for artificial intelligence, data analytics and smart manufacturing research.
+panorama_89C7AA2B_9916_912C_41D9_F6887CF34F9D.subtitle = A dedicated space for artificial intelligence, data analytics and smart manufacturing research.
+panorama_2F22FCF6_31A4_99A9_41A5_34706D5DB928.subtitle = A dedicated space for artificial intelligence, data analytics and smart manufacturing research.
+panorama_2F22DA9E_31A4_7999_4198_900ADBEDADDA.subtitle = A dedicated space for artificial intelligence, data analytics and smart manufacturing research.
+panorama_2F21FF84_31A4_9869_41C4_39CB1DFDBB06.subtitle = A dedicated workspace for postgraduate students, supporting research activities and academic collaboration.
+panorama_2EF28CAB_31A4_B9BE_41B4_C7E02B7BC5CA.subtitle = A dedicated workspace for postgraduate students, supporting research activities and academic collaboration.
+panorama_2F20F5DA_31A4_AB99_41B8_75E8D90CB71F.subtitle = A dedicated workspace for postgraduate students, supporting research activities and academic collaboration.
+panorama_2F213904_31A4_7869_41A0_D7415ED61571.subtitle = A dedicated workspace for postgraduate students, supporting research activities and academic collaboration.
+panorama_BF112223_9915_90DC_41D4_CAD07BE74F62.subtitle = A flexible workstation where humans and industrial robots work together on assembly tasks. It supports research into human–robot interaction, collaborative assembly, and smart manufacturing.
+panorama_8942608C_9915_91E4_41C0_CB0951F142FD.subtitle = A practical workspace for equipment preparation, prototyping and technical development.
+panorama_2F238197_31A5_AB97_41C5_2F6A887C7CFE.subtitle = A shared facility supporting document printing and everyday academic work.
+panorama_2F22C809_31A4_987B_41C4_E6824ADD803D.subtitle = Access the lifts and explore other levels of the Engineering Building.
+panorama_2F214DF5_31A4_9BAB_41A7_84E7F87EE2B5.subtitle = An entry area linking the outdoor approach with the building's internal corridors.
+panorama_2F235444_31A5_E8E9_41C0_F669950C5F79.subtitle = Continue through Level 8 to explore more of the Engineering Building.
+panorama_8040D619_990F_90EC_41D4_C2BEB3763823.subtitle = Discover digital manufacturing technologies and their applications in industrial environments.
+panorama_890D8DA6_9912_9324_41E0_0D01C547D4F8.subtitle = Discover our integrated manufacturing systems featuring industrial robots, automated conveyors and CNC equipment.
+panorama_96F8BA4C_9913_B164_41C8_AA6691BADDC4.subtitle = Discover our integrated manufacturing systems featuring industrial robots, automated conveyors and CNC equipment.
+panorama_96EC8C91_990D_71FC_41BA_A76F478C94F2.subtitle = Discover our integrated manufacturing systems featuring industrial robots, automated conveyors and CNC equipment.
+panorama_978A47D4_98F6_BF64_41D8_D122BB8E3656.subtitle = Discover our integrated manufacturing systems featuring industrial robots, automated conveyors and CNC equipment.
+panorama_2F23C0E2_31A4_69A9_417C_9E7F1E496AD4.subtitle = Discover the postgraduate working environment and nearby research facilities.
+panorama_2F22E0C1_31A4_69EB_41C4_65144D1129DD.subtitle = Enter the Engineering Building from Level 4 and discover its teaching, research and shared facilities.
+panorama_970E6F0A_98FF_90EC_4183_A9D8DA474258.subtitle = Explore our smart manufacturing laboratory, where robotics, automation and digital technologies come together to support research, education and innovation.
+panorama_2F22ACD8_31A4_F999_41C0_230A40CAF235.subtitle = Explore the main areas of the Engineering Building 405 on Level 4.
+panorama_2F229A0D_31A4_B87B_41C5_A64182BA8C32.subtitle = Explore the main areas of the Engineering Building 405 on Level 4.
+panorama_2F237F08_31A4_B87A_41A9_6D6D700C4A68.subtitle = Explore the main corridor connecting research facilities and shared spaces on Level 8.
+panorama_2F229FFF_31A4_9796_41C7_372E17604AAE.subtitle = Explore the main corridor connecting research facilities and shared spaces on Level 8.
+panorama_2F21124E_31A4_68F9_41BE_3190FC83C8AE.subtitle = Explore the main corridor connecting research facilities and shared spaces on Level 8.
+panorama_2F23D230_31A5_A8AA_41B9_5F2508AA47E8.subtitle = Explore the main corridor connecting research facilities and shared spaces on Level 8.
+panorama_2F21349E_31A7_A999_41C1_CCCA3D9B80D2.subtitle = Explore the main corridor connecting research facilities and shared spaces on Level 8.
+panorama_2F22F226_31A4_68A9_41C3_1E70B4E18D54.subtitle = Take in a wider view of the Engineering Building and its surrounding campus environment.
+panorama_2F2395A6_31A5_ABA9_41C6_A2DD40B2AC44.subtitle = The lift lobby provides access to Level 8 and connects visitors with other floors of the building.
+panorama_2F23468E_31A5_A879_41B1_8E849C532F55.subtitle = The lift lobby provides access to Level 8 and connects visitors with other floors of the building.
+panorama_2F211DCC_31A7_BBF9_41BD_B24A1D124F32.subtitle = This section of the corridor provides access to the LISMS laboratory and neighbouring spaces.
+
+### Title
+video_A5B240BC_BF84_C175_41DD_282D401092D9.label = 11-LISMS-iWindow-AR-Process-Monitoring
+album_90900E30_C758_D430_41D6_A84ADAC0D78B_1.label = 13
+album_90900E30_C758_D430_41D6_A84ADAC0D78B_3.label = 156
+album_90900E30_C758_D430_41D6_A84ADAC0D78B_4.label = 158
+album_90900E30_C758_D430_41D6_A84ADAC0D78B_5.label = 160
+album_90900E30_C758_D430_41D6_A84ADAC0D78B_6.label = 161
+album_90900E30_C758_D430_41D6_A84ADAC0D78B_7.label = 1638cd253536d18f6eaf2c4d34e6e7ce
+album_90900E30_C758_D430_41D6_A84ADAC0D78B_0.label = 2
+album_90900E30_C758_D430_41D6_A84ADAC0D78B_8.label = 2018-08-24-Rongli-03
+video_A6ADA42A_BF84_C11D_41E1_66BEC1E2C075.label = 2022-05-12-LISMS-home-page-video
+album_90900E30_C758_D430_41D6_A84ADAC0D78B_2.label = 21-zoom
+album_90900E30_C758_D430_41D6_A84ADAC0D78B_9.label = 38638d9159166b7a5ec697c9c284da83
+panorama_2F2159D2_31A7_9BE9_4189_FA9E9325471C.label = AI & Analytics Area
+panorama_2F22FCF6_31A4_99A9_41A5_34706D5DB928.label = AI & Analytics Area
+panorama_2F22DA9E_31A4_7999_4198_900ADBEDADDA.label = AI & Analytics Area
+panorama_89C7AA2B_9916_912C_41D9_F6887CF34F9D.label = AI & Analytics Area
+panorama_8040D619_990F_90EC_41D4_C2BEB3763823.label = DM Light Testbed
+album_90900E30_C758_D430_41D6_A84ADAC0D78B_10.label = DSCF8713
+panorama_2F22F226_31A4_68A9_41C3_1E70B4E18D54.label = Engineering Building
+panorama_2F22E0C1_31A4_69EB_41C4_65144D1129DD.label = Engineering Building Entrance
+panorama_BF112223_9915_90DC_41D4_CAD07BE74F62.label = Human–Robot Collaborative Assembly Station
+album_90900E30_C758_D430_41D6_A84ADAC0D78B_12.label = IMG_3141
+album_90900E30_C758_D430_41D6_A84ADAC0D78B_13.label = IMG_3962-e1726791927245
+album_90900E30_C758_D430_41D6_A84ADAC0D78B_14.label = IMG_6013
+album_90900E30_C758_D430_41D6_A84ADAC0D78B_15.label = IMG_6136_02r
+album_90900E30_C758_D430_41D6_A84ADAC0D78B_16.label = IMG_6500
+album_90900E30_C758_D430_41D6_A84ADAC0D78B_17.label = IMG_9673 - Copy
+album_90900E30_C758_D430_41D6_A84ADAC0D78B_11.label = Image_20240920185502
+video_9D4DC8AF_BF84_C102_41C7_F13A1A9207F1.label = Intelligent-factory-collaborative-robot-in-action-720p_AVG
+map_924D5D7F_9E4B_D4AD_41C3_EBA79777B627.label = LISMS
+album_90900E30_C758_D430_41D6_A84ADAC0D78B_18.label = LISMS Group 2026-Members Update
+album_90900E30_C758_D430_41D6_A84ADAC0D78B.label = LISMS Life
+album_EBD8788E_C7C8_DC8C_41DA_9EB976F25670.label = LISMS Reaearch
+photo_D460EDAD_BF68_71DF_41D1_DA9D0C9DF813.label = LISMS_photo_natural_colour
+panorama_2F228E16_31A4_9869_41C2_3A8C88DF8734.label = Lab_14_LISMS_3DPrinter
+panorama_970E6F0A_98FF_90EC_4183_A9D8DA474258.label = Laboratory for Industry 4.0 Smart Manufacturing Systems
+map_B4D9FF92_A019_87C9_41E3_48DDA31B45B9.label = Level 4 - EN401&&402&405
+panorama_2F22ACD8_31A4_F999_41C0_230A40CAF235.label = Level 4 — 405 Main Area
+panorama_2F229A0D_31A4_B87B_41C5_A64182BA8C32.label = Level 4 — 405 Main Area
+panorama_2F22CB63_31A4_98AF_41C0_12EBE13888FC.label = Level 4 — Building Connection
+panorama_2F214DF5_31A4_9BAB_41A7_84E7F87EE2B5.label = Level 4 — Entrance Hall
+panorama_2F22C809_31A4_987B_41C4_E6824ADD803D.label = Level 4 — Lift Lobby
+map_846090E9_9E58_ADD5_41C1_18DB7DB2C069.label = Level 8 - EN405
+panorama_2F235444_31A5_E8E9_41C0_F669950C5F79.label = Level 8 — Connecting Corridor
+panorama_2F211DCC_31A7_BBF9_41BD_B24A1D124F32.label = Level 8 — LISMS Corridor
+panorama_2F2395A6_31A5_ABA9_41C6_A2DD40B2AC44.label = Level 8 — Lift Lobby
+panorama_2F23468E_31A5_A879_41B1_8E849C532F55.label = Level 8 — Lift Lobby
+panorama_2F21124E_31A4_68F9_41BE_3190FC83C8AE.label = Level 8 — Main Corridor
+panorama_2F21349E_31A7_A999_41C1_CCCA3D9B80D2.label = Level 8 — Main Corridor
+panorama_2F23D230_31A5_A8AA_41B9_5F2508AA47E8.label = Level 8 — Main Corridor
+panorama_2F229FFF_31A4_9796_41C7_372E17604AAE.label = Level 8 — Main Corridor
+panorama_2F237F08_31A4_B87A_41A9_6D6D700C4A68.label = Level 8 — Main Corridor
+panorama_2F23C0E2_31A4_69A9_417C_9E7F1E496AD4.label = Level 8 — PG Office Area
+panorama_2F20F5DA_31A4_AB99_41B8_75E8D90CB71F.label = PGR Write-Up
+panorama_2EF28CAB_31A4_B9BE_41B4_C7E02B7BC5CA.label = PGR Write-Up
+panorama_2F21FF84_31A4_9869_41C4_39CB1DFDBB06.label = PGR Write-Up
+panorama_2F213904_31A4_7869_41A0_D7415ED61571.label = PGR Write-Up
+photo_98EE761E_C748_D7F1_41E2_1DA62AF734F2.label = P_Agmented_Graphic_Engine
+photo_98EE761E_C748_D7F1_41E2_1DA62AF734F2.label = P_Agmented_Graphic_Engine
+photo_9079F7E1_C748_D453_41C5_709C34304634.label = P_Assembly_Validation_VR
+photo_9079F7E1_C748_D453_41C5_709C34304634.label = P_Assembly_Validation_VR
+photo_908659B4_C748_DC31_41E1_5853DBAF32A0.label = P_Automated_Production_Line
+photo_908659B4_C748_DC31_41E1_5853DBAF32A0.label = P_Automated_Production_Line
+photo_9086FC50_C748_D471_41E6_FE3DB71CD502.label = P_Cyber-twin_MT
+photo_9086FC50_C748_D471_41E6_FE3DB71CD502.label = P_Cyber-twin_MT
+photo_90862299_C748_CCF3_41E4_E2555B8C95EE.label = P_IWindow_CPMT
+photo_90862299_C748_CCF3_41E4_E2555B8C95EE.label = P_IWindow_CPMT
+photo_9086109A_C748_CCF1_41E6_C56DCCC42053.label = P_Industry_Revolution
+photo_9086109A_C748_CCF1_41E6_C56DCCC42053.label = P_Industry_Revolution
+photo_9086348C_C748_F4D1_41E4_35CBE22B95B1.label = P_MIRAGE
+photo_9086348C_C748_F4D1_41E4_35CBE22B95B1.label = P_MIRAGE
+photo_90866692_C748_F4F1_41D8_5F3D395B85B7.label = P_Model-based_Cloud_Manufacturing
+photo_90866692_C748_F4F1_41D8_5F3D395B85B7.label = P_Model-based_Cloud_Manufacturing
+photo_90866863_C748_FC57_41DA_437C309CDD6D.label = P_OPCUA
+photo_90866863_C748_FC57_41DA_437C309CDD6D.label = P_OPCUA
+photo_90866EE3_C748_F457_41D1_66AFFA9F89F7.label = P_Retro-fitting
+photo_90866EE3_C748_F457_41D1_66AFFA9F89F7.label = P_Retro-fitting
+photo_908660E5_C748_CC53_41D7_2B417D52372D.label = P_Smart_AGV
+photo_908660E5_C748_CC53_41D7_2B417D52372D.label = P_Smart_AGV
+photo_908652ED_C748_CC53_41C0_95499D357705.label = P_Smart_Wearable
+photo_908652ED_C748_CC53_41C0_95499D357705.label = P_Smart_Wearable
+photo_908644EC_C748_D451_41C0_84F00815D9BD.label = P_Support_Structure_for_AM
+photo_908644EC_C748_D451_41C0_84F00815D9BD.label = P_Support_Structure_for_AM
+photo_908656BB_C748_D437_41E1_3B5D2EFA529F.label = P_VR_CB_360_VT
+photo_908656BB_C748_D437_41E1_3B5D2EFA529F.label = P_VR_CB_360_VT
+photo_90863E4B_C748_D456_41D8_73223CD7951E.label = P_i4_technologies
+photo_90863E4B_C748_D456_41D8_73223CD7951E.label = P_i4_technologies
+album_90900E30_C758_D430_41D6_A84ADAC0D78B_19.label = Picture1
+album_90900E30_C758_D430_41D6_A84ADAC0D78B_20.label = Picture1-83d8496b836e412a
+panorama_2F238197_31A5_AB97_41C5_2F6A887C7CFE.label = Printing Room
+panorama_96EC8C91_990D_71FC_41BA_A76F478C94F2.label = Smart Manufacturing Cell
+panorama_890D8DA6_9912_9324_41E0_0D01C547D4F8.label = Smart Manufacturing Cell
+panorama_978A47D4_98F6_BF64_41D8_D122BB8E3656.label = Smart Manufacturing Cell
+panorama_96F8BA4C_9913_B164_41C8_AA6691BADDC4.label = Smart Manufacturing Cell
+panorama_2F22BDAC_31A4_FBB9_41AC_546F067F2376.label = Smart Manufacturing Cell
+video_AA02B63E_BF85_C160_41E6_6CA4E2AF220A.label = UR5_Collaboration
+album_90900E30_C758_D430_41D6_A84ADAC0D78B_21.label = WhatsApp-Image-2026-05-05-at-19.20.09-1-1
+panorama_8942608C_9915_91E4_41C0_CB0951F142FD.label = Workshop
+
+### Video
+videolevel_9B9D9013_BF8D_411E_41D2_317A6D615C6F.url = media/video_9D4DC8AF_BF84_C102_41C7_F13A1A9207F1_en.mp4
+videolevel_9B9D9013_BF8D_411E_41D2_317A6D615C6F.posterURL = media/video_9D4DC8AF_BF84_C102_41C7_F13A1A9207F1_poster_en.jpg
+videolevel_A4982E06_BF8C_C109_41D1_80018662364A.url = media/video_A5B240BC_BF84_C175_41DD_282D401092D9_en.mp4
+videolevel_A4982E06_BF8C_C109_41D1_80018662364A.posterURL = media/video_A5B240BC_BF84_C175_41DD_282D401092D9_poster_en.jpg
+videolevel_A49B0F8B_BF8C_DF1E_41E7_1AF84C98A9C0.url = media/video_A6ADA42A_BF84_C11D_41E1_66BEC1E2C075_en.mp4
+videolevel_A49B0F8B_BF8C_DF1E_41E7_1AF84C98A9C0.posterURL = media/video_A6ADA42A_BF84_C11D_41E1_66BEC1E2C075_poster_en.jpg
+videolevel_A771DA27_BFBD_4162_41E0_BEF59A14BCF3.url = media/video_AA02B63E_BF85_C160_41E6_6CA4E2AF220A_en.mp4
+videolevel_A771DA27_BFBD_4162_41E0_BEF59A14BCF3.posterURL = media/video_AA02B63E_BF85_C160_41E6_6CA4E2AF220A_poster_en.jpg
+
+### Video Subtitles
+
+## Popup
+
+### Body
+htmlText_EBA2C04F_AF9B_84A5_41DD_F20AE0BBF77E.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:22px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#475569;font-size:22px;font-family:'Segoe UI';"><B>New Zealand's first Industry 4.0 learning factory.</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#475569;font-size:16px;font-family:'Segoe UI';"></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:17px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#475569;font-size:17px;font-family:'Segoe UI';">The Laboratory for Industry 4.0 Smart Manufacturing Systems (LISMS) is New Zealand’s first Industry 4.0 Learning Factory. It provides an environment for research and demonstration of smart manufacturing technologies, including cyber-physical systems, the Industrial Internet of Things, cloud computing, data analytics, and artificial intelligence.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:17px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#475569;font-size:17px;font-family:'Segoe UI';">LISMS consists of four main areas: </SPAN><SPAN STYLE="color:#475569;font-size:17px;font-family:'Segoe UI';"><B>Smart Manufacturing Cell</B></SPAN><SPAN STYLE="color:#475569;font-size:17px;font-family:'Segoe UI';">, </SPAN><SPAN STYLE="color:#475569;font-size:17px;font-family:'Segoe UI';"><B>AI and Analytics Area</B></SPAN><SPAN STYLE="color:#475569;font-size:17px;font-family:'Segoe UI';">, </SPAN><SPAN STYLE="color:#475569;font-size:17px;font-family:'Segoe UI';"><B>DM Light Testbed</B></SPAN><SPAN STYLE="color:#475569;font-size:17px;font-family:'Segoe UI';">, and </SPAN><SPAN STYLE="color:#475569;font-size:17px;font-family:'Segoe UI';"><B>Workshop</B></SPAN><SPAN STYLE="color:#475569;font-size:17px;font-family:'Segoe UI';">. These areas support research, experimentation, and demonstrations of advanced manufacturing technologies.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:17px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#475569;font-size:17px;font-family:'Segoe UI';">This Virtual Tour allows visitors to explore the four main areas of LISMS, as well as selected spaces within the University of Auckland’s Engineering Building, offering a broader view of the facilities and their surroundings.</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_CDF5712D_BF29_EEDE_417E_1DE320D0473E.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:22px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#475569;font-size:22px;font-family:'Segoe UI';"><B>New Zealand's first Industry 4.0 learning factory.</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#475569;font-size:16px;font-family:'Segoe UI';"></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:17px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#475569;font-size:17px;font-family:'Segoe UI';">The Laboratory for Industry 4.0 Smart Manufacturing Systems (LISMS) is New Zealand’s first Industry 4.0 Learning Factory. It provides an environment for research and demonstration of smart manufacturing technologies, including cyber-physical systems, the Industrial Internet of Things, cloud computing, data analytics, and artificial intelligence.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:17px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#475569;font-size:17px;font-family:'Segoe UI';">LISMS consists of four main areas: </SPAN><SPAN STYLE="color:#475569;font-size:17px;font-family:'Segoe UI';"><B>Smart Manufacturing Cell</B></SPAN><SPAN STYLE="color:#475569;font-size:17px;font-family:'Segoe UI';">, </SPAN><SPAN STYLE="color:#475569;font-size:17px;font-family:'Segoe UI';"><B>AI and Analytics Area</B></SPAN><SPAN STYLE="color:#475569;font-size:17px;font-family:'Segoe UI';">, </SPAN><SPAN STYLE="color:#475569;font-size:17px;font-family:'Segoe UI';"><B>DM Light Testbed</B></SPAN><SPAN STYLE="color:#475569;font-size:17px;font-family:'Segoe UI';">, and </SPAN><SPAN STYLE="color:#475569;font-size:17px;font-family:'Segoe UI';"><B>Workshop</B></SPAN><SPAN STYLE="color:#475569;font-size:17px;font-family:'Segoe UI';">. These areas support research, experimentation, and demonstrations of advanced manufacturing technologies.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:17px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#475569;font-size:17px;font-family:'Segoe UI';">This Virtual Tour allows visitors to explore the four main areas of LISMS, as well as selected spaces within the University of Auckland’s Engineering Building, offering a broader view of the facilities and their surroundings.</SPAN></SPAN></DIV></BODY></HTML></div>
+
+### Title
+window_CDF5312C_BF29_EEDE_41BD_190C004B43D9.title = Laboratory for Industry 4.0 Smart Manufacturing Systems
+window_EBA4C04F_AF9B_84A5_41CF_441C4EE954A4.title = Welcom to LISMS
+
+## Skin
+
+### Button
+Button_6B3DCC00_647A_DF9A_41D5_DC120403F72A.label = 360º VIEWS
+Button_6B3DCC00_647A_DF9A_41D5_DC120403F72A_mobile.label = 360º VIEWS
+Button_6B3517BB_64A6_3EE4_41D7_49868CE9F7A9_mobile.label = BUTTON
+Button_6B3517BB_64A6_3EE4_41D7_49868CE9F7A9.label = BUTTON
+Button_7DE3659A_6911_E2E0_41C3_93316288CBE4.label = GO TO BUY 
+Button_727E644B_7DD2_675A_41A5_E1B24D4186E2.label = GO TO BUY 
+Button_750C11A1_648F_A89A_41C9_2E58278A81A6_mobile.label = INFORMATION
+Button_750C11A1_648F_A89A_41C9_2E58278A81A6.label = INFORMATION
+Button_748008CC_648F_B8AA_41C2_97E5C5DE0CD2.label = PHOTOALBUM
+Button_748008CC_648F_B8AA_41C2_97E5C5DE0CD2_mobile.label = PHOTOALBUM
+Button_8BBC18CD_C758_7C41_41DA_824CF72DAC13.label = View Photos ↗
+Button_93A18B45_C758_3C47_41C2_5ADF1F177324.label = View Posters ↗
+
+### Image
+Image_6924E557_649A_33AC_41BA_A1E22386BC22.url = skin/Image_6924E557_649A_33AC_41BA_A1E22386BC22_en.png
+Image_6924E557_649A_33AC_41BA_A1E22386BC22_mobile.url = skin/Image_6924E557_649A_33AC_41BA_A1E22386BC22_mobile_en.png
+Image_727DA44B_7DD2_675A_4187_461ECAA80913.url = skin/Image_727DA44B_7DD2_675A_4187_461ECAA80913_en.jpg
+Image_7DE3B59A_6911_E2E0_41D3_E1AF7DF208C7.url = skin/Image_7DE3B59A_6911_E2E0_41D3_E1AF7DF208C7_en.jpg
+Image_86E14442_AEBD_8C9F_41D7_1A228A9D8340.url = skin/Image_86E14442_AEBD_8C9F_41D7_1A228A9D8340_en.png
+Image_876F0661_C74B_D476_41BD_BC44E7B51DE6.url = skin/Image_876F0661_C74B_D476_41BD_BC44E7B51DE6_en.png
+Image_9799E598_C748_54D6_41E5_CDE089760CD9.url = skin/Image_9799E598_C748_54D6_41E5_CDE089760CD9_en.png
+
+### Multiline Text
+HTMLText_942CA9BF_BD78_FE5E_41E5_7305C68CC331.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:29px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0f172a;font-size:29px;"><B>Explore LISMS</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:17px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0f172a;font-size:17px;font-family:Tahoma, Geneva, sans-serif;">Explore the four main areas of LISMS: Smart Manufacturing Cell, AI &amp; Analytics Area, Workshop, and DM Light Testbed.</SPAN></SPAN></DIV></div>
+HTMLText_FFB6918C_C7D9_CCAF_41DB_0B0C80AACECB.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:29px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0f172a;font-size:29px;"><B>LISMS Gallery</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:17px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0f172a;font-size:17px;">Explore our research and discover the people and activities behind LISMS.</SPAN></SPAN></DIV></div>
+HTMLText_84E85BC7_C748_3C47_41E5_5F0E368EFE0E.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:19px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0f172a;font-size:19px;"><B>Life at LISMS</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0f172a;font-size:14px;">A glimpse into everyday lab life, conferences, team gatherings, and other activities.</SPAN></SPAN></DIV></div>
+HTMLText_F87984FC_C748_D44E_41E5_5D1DC25D18C9.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:19px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0f172a;font-size:19px;"><B>Research Posters</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0f172a;font-size:14px;">Explore research projects, technologies, and findings through posters presented by LISMS researchers.</SPAN></SPAN></DIV></div>
+HTMLText_727E544B_7DD2_675A_41D7_B13EDAF14E19.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:10.130000000000004vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:10.13vmin;font-family:'Exo';"><B><I>LOREM IPSUM</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.420000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#048be1;font-size:5.42vmin;font-family:'Exo';"><B><I>The Arcona 340, is a 34’1” monohull sailboat designed by Stefan Qviberg. She was built by Arcona Yachts.</I></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.63vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:14.99vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.699999999999994vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.7vmin;font-family:'Roboto Black';">Arcona 340's Performances:</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.9799999999999978vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.98vmin;font-family:'Roboto Medium';">Upwind sail area to displacementi: 26.25</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.9799999999999978vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.98vmin;font-family:'Roboto Medium';">Downwind sail area to displacementi: 45.91</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.9799999999999978vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.98vmin;font-family:'Roboto Medium';">Displacement-Length ratio (DLR)i: 156</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.9799999999999978vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.98vmin;font-family:'Roboto Medium';">Ballast ratioi: 37 %</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.9799999999999978vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.98vmin;font-family:'Roboto Medium';">Hull speedi: 7.60 knots</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.9799999999999978vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.98vmin;font-family:'Roboto Medium';"> </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.699999999999994vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.7vmin;font-family:'Roboto Black';">Arcona 340's Auxiliary engine</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.9799999999999978vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.98vmin;font-family:'Roboto Medium';">Engine(s): 1</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.9799999999999978vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.98vmin;font-family:'Roboto Medium';">Engine type: Inboard engine</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.9799999999999978vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.98vmin;font-family:'Roboto Medium';">Engine: 20 HP</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.9799999999999978vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.98vmin;font-family:'Roboto Medium';">Fuel type: Diesel</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.9799999999999978vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.98vmin;font-family:'Roboto Medium';">Fuel tank capacity: 26.4 gal </SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.98vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:14.99vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.699999999999994vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.7vmin;font-family:'Roboto Black';">Arcona 340's Accommodation</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.9799999999999978vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.98vmin;font-family:'Roboto Medium';">Cabin(s): 2</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.9799999999999978vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.98vmin;font-family:'Roboto Medium';">Berth(s) (min/max): 4 / 6</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.9799999999999978vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.98vmin;font-family:'Roboto Medium';">Head(s): 1</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.9799999999999978vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.98vmin;font-family:'Roboto Medium';">Fresh water tank capacity: 34.3 gal</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.9799999999999978vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.98vmin;font-family:'Roboto Medium';">Water heater capacity: 5.3 gal</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.9799999999999978vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.98vmin;font-family:'Roboto Medium';">Holding tank capacity: 13.2 gal</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.98vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:14.99vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.9799999999999978vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.98vmin;font-family:'Roboto Medium';">Arcona uses resin infusion to create a light, strong hull and deck comprised of multiaxial rovings and vinylester resin with a Divinycell core. A galvanized steel framework in the base of the hull carries the loads generated by the rig and keel. All bulkheads are laminated to the hull and deck. The keel is a lead bulb bolted onto an epoxy-coated cast-iron fin. The keel-stepped mast is by Seldén. Standing rigging is wire.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.98vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:14.99vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.9799999999999978vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.98vmin;font-family:'Roboto Medium';">A nearly plumb bow and a fairly abrupt reverse transom both look sharp and maximize the boat’s sailing length. End-boom sheeting with traveler and mainsheet controls immediately forward of the helm—right where they belong—show this is a boat that means business on the racecourse.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.98vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:14.99vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.699999999999994vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#048be1;font-size:4.7vmin;font-family:'Roboto Black';">This is quite simply a nice boat, a sailor’s boat. Its quality construction, styling and many practical seagoing design features result in a smart and make for a fast, comfortable ride underway.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.98vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:14.99vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:6.149999999999994vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.15vmin;font-family:'Exo';"><B>$178,000</B></SPAN></SPAN></DIV></div>
+HTMLText_7DE3759A_6911_E2E0_41A7_C2659986BA1F.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.8999999999999986vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.9vw;font-family:'Exo';"><B><I>LOREM IPSUM</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.4499999999999995vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#048be1;font-size:1.45vw;font-family:'Exo';"><B><I>The Arcona 340, is a 34’1” monohull sailboat designed by Stefan Qviberg. She was built by Arcona Yachts.</I></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.21vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:0.97vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.97vw;font-family:'Roboto Black';">Arcona 340's Performances:</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.7799999999999995vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;font-family:'Roboto Medium';">Upwind sail area to displacementi: 26.25</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.7799999999999995vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;font-family:'Roboto Medium';">Downwind sail area to displacementi: 45.91</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.7799999999999995vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;font-family:'Roboto Medium';">Displacement-Length ratio (DLR)i: 156</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.7799999999999995vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;font-family:'Roboto Medium';">Ballast ratioi: 37 %</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.7799999999999995vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;font-family:'Roboto Medium';">Hull speedi: 7.60 knots</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.7799999999999995vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;font-family:'Roboto Medium';"> </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.97vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.97vw;font-family:'Roboto Black';">Arcona 340's Auxiliary engine</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.7799999999999995vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;font-family:'Roboto Medium';">Engine(s): 1</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.7799999999999995vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;font-family:'Roboto Medium';">Engine type: Inboard engine</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.7799999999999995vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;font-family:'Roboto Medium';">Engine: 20 HP</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.7799999999999995vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;font-family:'Roboto Medium';">Fuel type: Diesel</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.7799999999999995vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;font-family:'Roboto Medium';">Fuel tank capacity: 26.4 gal </SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.78vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:0.97vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.97vw;font-family:'Roboto Black';">Arcona 340's Accommodation</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.7799999999999995vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;font-family:'Roboto Medium';">Cabin(s): 2</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.7799999999999995vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;font-family:'Roboto Medium';">Berth(s) (min/max): 4 / 6</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.7799999999999995vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;font-family:'Roboto Medium';">Head(s): 1</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.7799999999999995vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;font-family:'Roboto Medium';">Fresh water tank capacity: 34.3 gal</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.7799999999999995vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;font-family:'Roboto Medium';">Water heater capacity: 5.3 gal</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.7799999999999995vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;font-family:'Roboto Medium';">Holding tank capacity: 13.2 gal</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.78vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:0.7799999999999995vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;font-family:'Roboto Medium';">Arcona uses resin infusion to create a light, strong hull and deck comprised of multiaxial rovings and vinylester resin with a Divinycell core. A galvanized steel framework in the base of the hull carries the loads generated by the rig and keel. All bulkheads are laminated to the hull and deck. The keel is a lead bulb bolted onto an epoxy-coated cast-iron fin. The keel-stepped mast is by Seldén. Standing rigging is wire.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.78vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:0.7799999999999995vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.78vw;font-family:'Roboto Medium';">A nearly plumb bow and a fairly abrupt reverse transom both look sharp and maximize the boat’s sailing length. End-boom sheeting with traveler and mainsheet controls immediately forward of the helm—right where they belong—show this is a boat that means business on the racecourse.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.78vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:0.97vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#048be1;font-size:0.97vw;font-family:'Roboto Black';">This is quite simply a nice boat, a sailor’s boat. Its quality construction, styling and many practical seagoing design features result in a smart and make for a fast, comfortable ride underway.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.97vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.4499999999999995vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.45vw;font-family:'Exo';"><B>$178,000</B></SPAN></SPAN></DIV></div>
+HTMLText_6BDD8039_64A6_31E4_41D7_D3C38C6C69F2_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 6px rgba(0,0,0,0.63);text-align:left;font-size:25.99px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Segoe UI';"><SPAN STYLE="color:#ffffff;font-size:25.99px;font-family:'Exo';"><B><I>LOREM IPSUM</I></B></SPAN></SPAN></DIV><DIV STYLE="text-shadow:0px 0px 6px rgba(0,0,0,0.63);text-align:left;font-size:14.515px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Segoe UI';"><SPAN STYLE="color:#40bbff;font-size:14.52px;font-family:'Exo';"><B><I>BOAT MODEL</I></B></SPAN></SPAN></DIV></div>
+HTMLText_BBFC5DE5_A999_9D1F_41A8_EEF72F285D93.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:1px 1px 3px rgba(0,0,0,0.6);text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#39c3ff;font-size:16px;font-family:&quot;Arial Black&quot;, Gadget, sans-serif;"><B>LISMS / VIRTUAL TOUR</B></SPAN></SPAN></DIV><DIV STYLE="text-shadow:1px 1px 3px rgba(0,0,0,0.6);text-align:left;font-size:32px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:32px;">{{title}}</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-shadow:1px 1px 3px rgba(0,0,0,0.6);text-align:justify;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:15px;">{{subtitle}}</SPAN></SPAN></DIV></div>
+
+### Tooltip
+IconButton_A19F0A30_C336_F7E7_41E6_4448E8CB16E8.toolTip = Directions to LISMS
+IconButton_DDAA622A_BCE8_32C6_41D2_51DCBB0F4033.toolTip = Fullscreen
+IconButton_B1FDBCCD_AE94_9DA4_41E4_A80B7FA5B7A0.toolTip = Gallery
+IconButton_EE5A2B7F_BD38_113F_41D3_8C6C8E351327.toolTip = Home
+IconButton_8CEDB2B4_AD6C_85FB_41E2_B4FE50716F75.toolTip = LISMS Information
+IconButton_8DE50652_AD6C_8CBF_41DB_607E5C610969.toolTip = LISMS Research
+IconButton_8DDCD75B_AD74_8CAD_41C3_205296335BD3.toolTip = Show LISMS Areas
+
+## Tour
+
+### Description
+
+### Title
+tour.name = 20261102_LISMS_VT_V01
