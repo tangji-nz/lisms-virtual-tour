@@ -12,7 +12,7 @@ LinkBehaviour_29BA23E7_31A4_EFB7_416C_0F16D1563154.source = http://www.loremipsu
 LinkBehaviour_29BDA3E7_31A4_EFB7_41C0_AFF96E074E4D.source = http://www.loremipsum.com
 LinkBehaviour_29BA63E7_31A4_EFB7_41AE_A963B8DFDBE3.source = http://www.twitter.com/loremipsum
 LinkBehaviour_E6F0BFC4_C317_0CAF_41DD_A24392E0A71F.source = https://lisms.auckland.ac.nz/
-LinkBehaviour_FDF5B583_ECFC_23C7_41B1_611C62571E53.source = https://lisms.auckland.ac.nz/research-2026/
+LinkBehaviour_FDF5B583_ECFC_23C7_41B1_611C62571E53.source = https://lisms.auckland.ac.nz/research/
 LinkBehaviour_2D897EBE_3B52_CB67_41C8_47D555C014CF.source = https://www.auckland.ac.nz/en/news/2026/02/24/university-programme-expands-help-manufacturers-go-digital.html
 LinkBehaviour_82756357_991D_9764_41D7_6F591BD72205.source = https://www.auckland.ac.nz/en/news/2026/02/24/university-programme-expands-help-manufacturers-go-digital.html
 
